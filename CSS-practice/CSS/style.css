@@ -1,0 +1,55 @@
+.box{
+    background-color: orangered;
+    height: 250px;
+    width: 250px;
+    border-radius: 200px;
+}
+.mouth{
+    height: 50px;
+    width: 120px;
+    background-color: brown;
+    position: absolute;
+    top: 140px;
+    left: 70px;
+    border-radius: 0 0 50px 50px;
+}
+
+    
+
+ .lefteye{
+    height: 40px;
+    width: 40px;
+    background-color: black;
+    border-radius: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 50px;
+    left : 75px;
+}
+.righteye{
+    height: 40px;
+    width: 40px;
+    background-color: black;
+    border-radius: 50px;
+    display: inline-block;
+    position: absolute;
+    top: 50px;
+    left : 150px;
+}
+.card{
+    height: 250px;
+    width: 250px;
+    background-color: wheat;
+    display: inline-block;
+    margin: 10px;
+    box-shadow: 2px 2px 8px black;
+    border: 2px solid black;
+}
+img{
+    width: 250px;
+    height: 100px;
+    
+}
+.id{
+    padding: 2px;
+}
